@@ -7,7 +7,11 @@ background: #00b3e6;
 div {
 width:700px;
 margin:auto;
+<<<<<<< HEAD
 font-family: "Helvetica Neue";
+=======
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+>>>>>>> 91f4ff9900675e0ded20775936bcce3eda769089
 background:white;
 padding:30px;
 
